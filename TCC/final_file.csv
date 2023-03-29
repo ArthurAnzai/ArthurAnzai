@@ -1,0 +1,50 @@
+file_name;Fiscal_Quarter;Empresa;Overall Sentiment Score;Valor;Overall Sentiment Score_normalizado;Valor_normalizado
+UNIPAR_Release de Resultados 1T22;1T22;UNIPAR;-51 ; 2,65 ; 0,23 ; 0,54 
+UNIPAR_Release de Resultados 2T22;2T22;UNIPAR;-31 ; 3,02 ; 0,31 ; 0,62 
+UNIPAR_Release de Resultados 3T22;3T22;UNIPAR;-27 ; 4,84 ; 0,33 ; 1,00 
+UNIPAR_Release de Resultados 1T21;1T21;UNIPAR;-41 ; 1,28 ; 0,27 ; 0,25 
+UNIPAR_Release de Resultados 2T21;2T21;UNIPAR;-46 ; 1,59 ; 0,25 ; 0,32 
+UNIPAR_Release de Resultados 3T21;3T21;UNIPAR;-28 ; 2,65 ; 0,33 ; 0,54 
+UNIPAR_Release de Resultados 1T20;1T20;UNIPAR;-55 ; 0,51 ; 0,22 ; 0,09 
+UNIPAR_Release de Resultados 3T20;3T20;UNIPAR;-27 ; 0,76 ; 0,33 ; 0,14 
+UNIPAR_Release de Resultados 1T19;1T19;UNIPAR;-54 ; 0,29 ; 0,22 ; 0,04 
+COPEL_Release de Resultados 1T19;1T19;COPEL;-54 ; 0,36 ; 0,22 ; 0,06 
+COPEL_Release de Resultados 3T19;3T19;COPEL; 16 ; 2,89 ; 0,50 ; 0,59 
+COPEL_Release de Resultados 2T20;2T20;COPEL;-51 ; 2,39 ; 0,23 ; 0,49 
+COPEL_Release de Resultados 3T20;3T20;COPEL;-70 ; 3,01 ; 0,16 ; 0,61 
+COPEL_Release de Resultados 1T21;1T21;COPEL;-110 ; 0,10 ; -   ; 0,00 
+COPEL_Release de Resultados 2T21;2T21;COPEL;-32 ; 0,53 ; 0,31 ; 0,09 
+COPEL_Release de Resultados 3T21;3T21;COPEL; 8 ; 0,21 ; 0,47 ; 0,03 
+COPEL_Release de Resultados 1T22;1T22;COPEL;-37 ; 1,01 ; 0,29 ; 0,20 
+COPEL_Release de Resultados 3T22;3T22;COPEL; 10 ; 0,36 ; 0,48 ; 0,06 
+VIVO_Release de Resultados 1T20;1T20;VIVO;-11 ; 0,86 ; 0,39 ; 0,16 
+VIVO_Release de Resultados 2T20;2T20;VIVO;-34 ; 0,36 ; 0,30 ; 0,06 
+VIVO_Release de Resultados 3T20;3T20;VIVO; 10 ; 0,37 ; 0,48 ; 0,06 
+VIVO_Release de Resultados 1T21;1T21;VIVO; 56 ; 0,49 ; 0,66 ; 0,09 
+VIVO_Release de Resultados 2T21;2T21;VIVO; 97 ; 0,36 ; 0,82 ; 0,06 
+VIVO_Release de Resultados 3T21;3T21;VIVO; 74 ; 0,69 ; 0,73 ; 0,13 
+VIVO_Release de Resultados 1T22;1T22;VIVO;-9 ; 0,53 ; 0,40 ; 0,09 
+VIVO_Release de Resultados 2T22;2T22;VIVO; 52 ; 0,18 ; 0,64 ; 0,02 
+VIVO_Release de Resultados 3T22;3T22;VIVO; 46 ; 0,52 ; 0,62 ; 0,09 
+TAESA_Release de Resultados 1T19;1T19;TAESA; 33 ; 0,08 ; 0,57 ; -   
+TAESA_Release de Resultados 2T19;2T19;TAESA; 60 ; 0,20 ; 0,67 ; 0,02 
+TAESA_Release de Resultados 3T19;3T19;TAESA; 32 ; 0,13 ; 0,56 ; 0,01 
+TAESA_Release de Resultados 1T20;1T20;TAESA; 96 ; 0,16 ; 0,82 ; 0,02 
+TAESA_Release de Resultados 2T20;2T20;TAESA; 119 ; 0,23 ; 0,91 ; 0,03 
+TAESA_Release de Resultados 3T20;3T20;TAESA; 129 ; 0,28 ; 0,95 ; 0,04 
+TAESA_Release de Resultados 1T21;1T21;TAESA; 142 ; 0,55 ; 1,00 ; 0,10 
+TAESA_Release de Resultados 3T21;3T21;TAESA; 122 ; 0,42 ; 0,92 ; 0,07 
+TAESA_Release de Resultados 1T22;1T22;TAESA; 95 ; 0,65 ; 0,81 ; 0,12 
+TAESA_Release de Resultados 2T22;2T22;TAESA; 57 ; 0,41 ; 0,66 ; 0,07 
+TAESA_Release de Resultados 3T22;3T22;TAESA; 63 ; 0,20 ; 0,69 ; 0,02 
+ROMI_Release de Resultados 2T19;2T19;ROMI;-69 ; 0,40 ; 0,16 ; 0,07 
+ROMI_Release de Resultados 3T19;3T19;ROMI;-65 ; 0,25 ; 0,18 ; 0,04 
+ROMI_Release de Resultados 1T20;1T20;ROMI;-61 ; 0,10 ; 0,19 ; 0,00 
+ROMI_Release de Resultados 2T20;2T20;ROMI;-72 ; 0,80 ; 0,15 ; 0,15 
+ROMI_Release de Resultados 3T20;3T20;ROMI;-74 ; 1,00 ; 0,14 ; 0,19 
+ROMI_Release de Resultados 1T21;1T21;ROMI;-67 ; 0,12 ; 0,17 ; 0,01 
+ROMI_Release de Resultados 2T21;2T21;ROMI;-64 ; 0,18 ; 0,18 ; 0,02 
+ROMI_Release de Resultados 3T21;3T21;ROMI;-54 ; 0,15 ; 0,22 ; 0,01 
+ROMI_Release de Resultados 1T22;1T22;ROMI;-23 ; 0,20 ; 0,35 ; 0,02 
+ROMI_Release de Resultados 2T22;2T22;ROMI;-42 ; 0,21 ; 0,27 ; 0,03 
+ROMI_Release de Resultados 3T22;3T22;ROMI;-57 ; 0,21 ; 0,21 ; 0,03 
